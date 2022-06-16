@@ -1,0 +1,21 @@
+{
+    "name": "vladcizsol/energy",
+    "description": "Energy supplier task",
+    "license": "MIT",
+    "keywords": ["energy"],
+    "authors": [
+        {
+        "name": "Vlad Cizmarita",
+        "email": "vladcizmarita@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "9.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vladcizsol\\Energy\\": "src"
+        }
+    }
+}
